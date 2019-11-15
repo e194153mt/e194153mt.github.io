@@ -1,6 +1,6 @@
 h1{
     color: honeydew;
-    background-color: black;
+    background-color:cornflowerblue;
     text-align: center;
 }
 h2{
@@ -12,7 +12,7 @@ h3{
     color: blue;
 }
 p{
-    color: purple;
+    color:aquamarine;
 }
 body{
     background-image: url("../images/images.jpg")

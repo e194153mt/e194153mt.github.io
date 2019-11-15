@@ -1,0 +1,19 @@
+h1{
+    color:chartreuse;
+    background-color:cornflowerblue;
+    text-align: center;
+}
+h2{
+     color: aqua;
+    background-color:cornflowerblue;
+    text-align: center;
+}
+tr{
+    background-color: darkorange;
+}
+body{
+     background-image: url("../images/images.jpg")
+}
+ol{
+    background-image: url("../images/b033e5547284b0fc9596d3aacab0da90.jpg")
+}
