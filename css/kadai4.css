@@ -1,0 +1,23 @@
+.iro{
+  color: honeydew;
+    background-color:black;
+    text-align: center;   
+}
+.orenji{
+     color: red;
+    background-color:orange;
+    text-align: center; 
+}
+.ao{
+    color: blue;
+    background-color:red;
+    text-align: center;     
+}
+.rinku{
+     color: green;
+    background-color:aquamarine;
+    text-align: center;
+}
+ body{
+    background-image: url("../images/b033e5547284b0fc9596d3aacab0da90.jpg")
+}
