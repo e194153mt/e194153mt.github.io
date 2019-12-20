@@ -1,0 +1,66 @@
+div.title{
+   width: 1000px;
+    height: 40px;
+    background-color: aqua;
+    font-size:25px;
+    margin: auto;
+    margin-bottom: 20px;
+    
+}
+div.menu{
+    width: 1000px;
+    height:320px;
+    background-color: white;
+    color: white;
+    margin-top: 20px;
+    font-size: 0;
+    margin: auto;
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: orange;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+}
+div.menuitem{
+    display: inline-block;
+    width: 250px;
+    height:320px;
+    background-color: black;
+    color: azure;
+    margin-right:50px;
+    vertical-align: top;
+}
+div.me1{
+    width: 250px;
+    height: 100px;
+    margin-bottom: 10px;
+    background-color: red;
+    color: black;
+    font-size:25px;
+}
+div.me2{
+     width: 250px;
+    height: 100px;
+    background-color: red;
+    color: black;
+    font-size: 25px;
+}
+div.image{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    background-color: black;
+    color: antiquewhite;
+}
+div.bun{
+    width: 700px;
+    height:20px;
+    background-color: blue;
+    color: black;
+    font-size: 15px;
+    margin-top: 300px;
+    
+}
