@@ -1,0 +1,75 @@
+div.title{
+    width: 970px;
+    height: 50px;
+     background-color:aquamarine;
+    text-align: left;
+    font-size: 30px;
+    font-family: "Inpact";
+    padding-left:30px;
+    margin:auto;
+    margin-bottom: 20px;
+}
+div.menu{
+    width: 1000px;
+    height: 750px;
+    background-color: skyblue;
+    margin: auto;
+}
+div.menua{
+    vertical-align: top;
+    display: inline-block;
+    width: 300px;
+    height: 700px;
+    color: black;
+    background-color: black;
+}
+div.me1{
+    width: 250px;
+    height: 40px;
+    color: black;
+    background-color: blue;
+    margin-top: 20px;
+}
+div.me2{
+    width: 250px;
+    height: 40px;
+    color: black;
+    background-color: blue;
+    margin-top: 20px;
+}
+div.image{
+    vertical-align: top;
+    display: inline-block;
+    width: 690px;
+    height: 700px;
+    color: white;
+    background-color: whitesmoke;
+    
+}
+div.image1{
+    vertical-align: top;
+    display: inline-block;
+    width: 690px;
+    height: 350px;
+    color: aquamarine;
+    background-color: aquamarine;
+    margin-bottom: 10px
+}
+div.image2{
+    vertical-align: top;
+    display: inline-block;
+    width: 690px;
+    height: 350px;
+    color: aquamarine;
+    background-color: black;
+    
+}
+
+div.footer{
+    width: 1000px;
+    height: 40px;
+    background-color: cornflowerblue;
+    margin: auto;
+    margin-top: 10px;
+    
+}
